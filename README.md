@@ -31,9 +31,4 @@ qq:578246786
 
 
 ====12.04====
-
-signed.merge.2018-12-04-13-53-13.rimet_10002068.apk  支持android9.0 !
-
-signed.merge.2018-12-04-14-15-47.rimet_10002068.apk 忘记打开定位hook,重传
-
-signed.merge.2018-12-04-14-38-35.rimet_10002068.apk 又忘记开启一个hook,重传!!
+signed.merge.2018-12-04-14-38-35.rimet_10002068.apk 暂不支持8.1及以上android系统

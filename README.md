@@ -37,4 +37,4 @@ signed.merge.2018-12-04-14-38-35.rimet_10002068.apk 暂不支持8.1及以上andr
 
 ====2019.1.01====
 
-signed.merge.2019-01-10-15-14-18.com.alibaba.android.rimet_4.6.8_501.apk 支持android9.0
+signed.merge.2019-01-10-15-14-18.com.alibaba.android.rimet_4.6.8_501.apk(钉钉) 支持android9.0
